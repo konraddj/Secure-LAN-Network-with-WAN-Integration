@@ -1,7 +1,7 @@
 # Secure LAN Network with WAN Integration
 
 ## Summary
-This project involves the design and implementation of a secure LAN network for an office building, integrated with WAN connectivity to extend the corporate network. The focus is on creating a robust network infrastructure with an emphasis on security, utilizing firewall and DMZ to protect network traffic and servers.
+This project involves the design and implementation of a secure LAN network for an office building, integrated with WAN connectivity to extend the corporate network. The focus is on creating a robust network infrastructure with an emphasis on security, utilizing firewalls and DMZ to protect network traffic and servers.
 
 ## Introduction
 The client for this project is EXCEL FINANCE, a financial investment company headquartered in Dublin, expanding to County Donegal. The new office requires a well-designed LAN network to accommodate conference rooms, department offices, and executive, and administrative areas, located on the ground floor of the building. The primary objective is to ensure a secure and efficient network setup, addressing connectivity and security concerns.
